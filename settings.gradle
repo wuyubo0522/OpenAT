@@ -1,2 +1,2 @@
-include ':app', ':openat'
+include ':openat'
 rootProject.name='OpenAT'
